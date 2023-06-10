@@ -1,0 +1,64 @@
+.container{
+    background-image: url("https://cdn.s3waas.gov.in/s3d645920e395fedad7bbbed0eca3fe2e0/uploads/bfi_thumb/2019070530-olwciq5hthmi33vxt8w0l5wxrmvdgqikvoc69oywsq.jpg");
+    background-repeat: no-repeat;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    height: 700px;
+    background-size: cover;
+}
+#main{
+    position: absolute;
+    margin-top: 10%;
+    margin-left: 40%;
+    color: white;
+    font-size: 80px;
+    text-shadow: 2px -4px 5px rgb(112, 98, 24);
+    letter-spacing: 5px;
+}
+#main2{
+    position: absolute;
+    margin-top: 18%;
+    margin-left: 35%;
+    font-size:40px ;
+    letter-spacing: 3px;
+    color: rgb(225, 224, 168);
+    text-shadow: 2px -4px 5px rgb(112, 98, 24);
+}
+.sec-2{
+    text-align: center;
+    background-color: bisque;
+    box-shadow:  2px 3px 4px rgb(75, 155, 41);
+    border-radius: 20px;
+    
+}
+#heading{
+    font-size:40px ;
+    letter-spacing: 3px;
+    color: brown;
+  
+}
+#history{
+    font-size:30px ;
+}
+#welcome{
+    font-size:40px ;
+    letter-spacing: 3px;
+    color: brown;
+  
+}
+.places{
+    background-color:bisque ;
+    text-align: center;
+    letter-spacing: 2px;
+    color: brown ;
+
+}
+.places img{
+    border-radius: 40px;
+    box-shadow: 2px 2px 4px 4px brown;
+}
+
+
+
+
